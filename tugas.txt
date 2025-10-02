@@ -1,1 +1,4 @@
-hello world
+Nama : M. Syaiful bahri
+Nim : 25106050115
+Figma adalah alat desain kolaboratif berbasis cloud yang digunakan untuk merancang user interface (UI) 
+dan pengalaman pengguna (UX) untuk aplikasi, website, dan produk digital lain nya
